@@ -7,7 +7,7 @@ int main() {
 	int n;
 	cout << "Input number : ";
 	cin >> n;
-	cout << sum(n);
+	cout << sum(n) << endl;
 	return 0;
 }
 
